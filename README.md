@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang=fr>
+    <head><title>Fiches 1A TN</title>
+    <style> p{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}</style>
+    <style> h1{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}</style>
+    <style> h2{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}</style>
+    <style>h2{padding-left: 35px};</style>
+    </head>
+
+
+    <body><h1>CS54</h1>
+            <h2>Algo</h2>
+            <p><a href="CS54/Algo/CS54_Chap1&2.pdf">Rappels sur la complexité</a></p>
+            <p><a href="CS54/Algo/CS54_Chap3.pdf">Récursivité</a></p>
+            <p><a href="CS54/Algo/CS54_Chap4.pdf">Tests</a></p>
+            <h2>BD</h2>
+            <p><a href="CS54/BD/CS54_BD_Chap1.pdf">Introduction aux BD</a></p>
+            <p><a href="CS54/BD/CS54_BD_Chap2.pdf">Modèle conceptuel entité/association</a></p>
+    <h1>LOG</h1>
+    <p><a href="LOG/LOG_Rappels.pdf">Rappels</a></p>
+    <p><a href="LOG/LOG_Boole.pdf">Boole</a></p>
+    <p><a href="LOG/LOG_LogiqueDesPropositions.pdf">Logique des propositions</a></p>
+
+    <h1>COLD</h1>
+    <p><a href="COLD/NavigationFichiers.pdf">Navigation dans les fichiers</a></p>
+    <p><a href="COLD/GestionPaquets.pdf">Gestion de paquets</a></p>
+    <p><a href="COLD/GestionVersions_GIT.pdf">Gestion de versions avec GIT</a></p>
+
+    <h1>MAP</h1>
+    <p><a href="MAP/MAP_Chap1.pdf">Analyse Combinatoire</a></p>
+    <p><a href="MAP/MAP_Chap2.pdf">Mod&egrave;le probabiliste</a></p>
+
+    <h1>MO1</h1>
+    <p><a href="MO1/CM1.pdf">Qu'est-ce qu'une entreprise ?</a></p>
+    <p><a href="MO1/CM2.pdf">La recherche de performance</a></p>
+
+    <h1>TEC</h1>
+    <p><a href="TEC_PresentationReussie.pdf">Conseils pour une présentation réussie</a></p>
+    </body>
+</html>
