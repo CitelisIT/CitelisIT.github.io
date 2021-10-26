@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang=fr>
     <head><title>Fiches 1A TN</title>
-    <link rel='stylesheet' href='style.css'>
-    <link rel='stylesheet2' href='animate.css'>
-    <link rel='stylesheet3' href='bootstrap.min.css'>
-    <link rel='stylesheet4' href='font-awesome.css'>
-    <link rel='stylesheet5' href='magnific-popup.css'>
+    <style> p{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}</style>
+    <style> h1{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}</style>
+    <style> h2{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}</style>
+    <style>h2{padding-left: 35px};</style>
     </head>
 
 
