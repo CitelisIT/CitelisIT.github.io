@@ -2,6 +2,10 @@
 <html lang=fr>
     <head><title>Fiches 1A TN</title>
     <link rel='stylesheet' href='style.css'>
+    <link rel='stylesheet2' href='animate.css'>
+    <link rel='stylesheet3' href='bootstrap.min.css'>
+    <link rel='stylesheet4' href='font-awesome.css'>
+    <link rel='stylesheet5' href='magnific-popup.css'>
     </head>
 
 
