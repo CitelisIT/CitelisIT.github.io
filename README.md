@@ -17,9 +17,9 @@
             <p><a href="CS54/BD/CS54_BD_Chap1.pdf">Introduction aux BD</a></p>
             <p><a href="CS54/BD/CS54_BD_Chap2.pdf">Modèle conceptuel entité/association</a></p>
     <h1>LOG</h1>
-    <p><a href="LOG/LOG_Rappels.pdf">Rappels</a></p>
-    <p><a href="LOG/LOG_Boole.pdf">Boole</a></p>
-    <p><a href="LOG/LOG_LogiqueDesPropositions.pdf">Logique des propositions</a></p>
+    <p><a href="LOG_Rappels.pdf">Rappels</a></p>
+    <p><a href="LOG_Boole.pdf">Boole</a></p>
+    <p><a href="LOG_LogiqueDesPropositions.pdf">Logique des propositions</a></p>
 
     <h1>COLD</h1>
     <p><a href="NavigationFichiers.pdf">Navigation dans les fichiers</a></p>
@@ -29,12 +29,12 @@
     <p><a href="Processus.pdf">Gestion des processus</a></p>    
 
     <h1>MAP</h1>
-    <p><a href="MAP/MAP_Chap1.pdf">Analyse Combinatoire</a></p>
-    <p><a href="MAP/MAP_Chap2.pdf">Mod&egrave;le probabiliste</a></p>
+    <p><a href="MAP_Chap1.pdf">Analyse Combinatoire</a></p>
+    <p><a href="MAP_Chap2.pdf">Mod&egrave;le probabiliste</a></p>
 
     <h1>MO1</h1>
-    <p><a href="MO1/CM1.pdf">Qu'est-ce qu'une entreprise ?</a></p>
-    <p><a href="MO1/CM2.pdf">La recherche de performance</a></p>
+    <p><a href="CM1.pdf">Qu'est-ce qu'une entreprise ?</a></p>
+    <p><a href="CM2.pdf">La recherche de performance</a></p>
 
     <h1>TEC</h1>
     <p><a href="TEC_PresentationReussie.pdf">Conseils pour une présentation réussie</a></p>
