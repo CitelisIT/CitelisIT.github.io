@@ -10,12 +10,12 @@
 
     <body><h1>CS54</h1>
             <h2>Algo</h2>
-            <p><a href="CS54/Algo/CS54_Chap1&2.pdf">Rappels sur la complexité</a></p>
-            <p><a href="CS54/Algo/CS54_Chap3.pdf">Récursivité</a></p>
-            <p><a href="CS54/Algo/CS54_Chap4.pdf">Tests</a></p>
+            <p><a href="CS54_Chap1&2.pdf">Rappels sur la complexité</a></p>
+            <p><a href="CS54_Chap3.pdf">Récursivité</a></p>
+            <p><a href="CS54_Chap4.pdf">Tests</a></p>
             <h2>BD</h2>
-            <p><a href="CS54/BD/CS54_BD_Chap1.pdf">Introduction aux BD</a></p>
-            <p><a href="CS54/BD/CS54_BD_Chap2.pdf">Modèle conceptuel entité/association</a></p>
+            <p><a href="CS54_BD_Chap1.pdf">Introduction aux BD</a></p>
+            <p><a href="CS54_BD_Chap2.pdf">Modèle conceptuel entité/association</a></p>
     <h1>LOG</h1>
     <p><a href="LOG_Rappels.pdf">Rappels</a></p>
     <p><a href="LOG_Boole.pdf">Boole</a></p>
@@ -35,7 +35,9 @@
     <h1>MO1</h1>
     <p><a href="CM1.pdf">Qu'est-ce qu'une entreprise ?</a></p>
     <p><a href="CM2.pdf">La recherche de performance</a></p>
-
+    <p><a href="CM3.pdf">Les parties prenantes</a></p>
+    <p><a href="CM4.pdf">La production de biens et services</a></p>
+        
     <h1>TEC</h1>
     <p><a href="TEC_PresentationReussie.pdf">Conseils pour une présentation réussie</a></p>
     </body>
